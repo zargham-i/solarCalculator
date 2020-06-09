@@ -58,7 +58,7 @@ header h1 {
 	color: #fe893c;
 	font-size: 3rem;
 	
-	padding: 2.5rem 0 .5rem 110px;
+	padding: 2.35rem 0 .5rem 110px;
 }
 header, nav, main, footer {max-width: 960px; margin: 0 auto;}
 nav {background-color: #9caf13}
